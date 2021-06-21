@@ -1,1 +1,3 @@
 ita sample file in my learning git
+hello hai 
+today isnt a good day
